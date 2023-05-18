@@ -4,9 +4,9 @@
 
 <h2>Experience</h2>
 
-🔭 Co-Creator of [MediQL](https://github.com/oslabs-beta/MediQL)
+🔭 Co-Creator of : [MediQL](https://github.com/oslabs-beta/MediQL)
 
-🚅 Check Out My Frontend Development Skills : [MediQL - Splash Page](https://mediql-landingpage.vercel.app/)
+🚅 Frontend Development : [MediQL - Splash Page](https://mediql-landingpage.vercel.app/)
 
 <h2>Open Source</h2>
 
