@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Jake</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Jake Ruiz  💻 Software Engineer  🌇 NYC </h1>
+
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 <h2>Experience</h2>
