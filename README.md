@@ -6,7 +6,7 @@
 
 🔭 Co-Creator of : [MediQL](https://github.com/oslabs-beta/MediQL)
 
-🚅 Frontend Development : [MediQL - Splash Page](https://mediql-landingpage.vercel.app/)
+🚅 MediQL Splash Page: [MediQL - Splash Page](https://mediql-landingpage.vercel.app/)
 
 <h2>Open Source</h2>
 
